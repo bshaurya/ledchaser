@@ -1,7 +1,7 @@
 # shauryachaser LED Chaser
 
 a cricket-ball themed LED chaser because why not  
-hardware-only, no firmware needed — powered by a 555 + CD4017  
+hardware-only, no firmware needed. Powered by a 555 + CD4017  
 and mounted inside a shiny 3D-printed cricket ball enclosure
 
 ![Top](assets/top.png)
