@@ -1,7 +1,6 @@
 Designator,Quantity,Value,Description,Package,Estimated Unit Price (USD),Estimated Total Price (USD)
 U1,1,NE555P,555 Timer DIP-8,DIP-8_W7.62mm,0.40,0.40
 U2,1,CD4017BE,Decade Counter DIP-16,DIP-16_W7.62mm,0.70,0.70
-
 R1,1,1kΩ,Resistor 1kΩ,Axial 7.62mm,0.05,0.05
 R2,1,1kΩ,Resistor 1kΩ,Axial 7.62mm,0.05,0.05
 R3,1,470Ω,LED Series Resistor,Axial 7.62mm,0.05,0.05
@@ -14,12 +13,9 @@ R9,1,470Ω,LED Series Resistor,Axial 7.62mm,0.05,0.05
 R10,1,470Ω,LED Series Resistor,Axial 7.62mm,0.05,0.05
 R11,1,470Ω,LED Series Resistor,Axial 7.62mm,0.05,0.05
 R12,1,470Ω,LED Series Resistor,Axial 7.62mm,0.05,0.05
-
 RV1,1,50kΩ Potentiometer,Adjustable Potentiometer,3386P Vertical,0.50,0.50
-
 C1,1,0.01uF,Non-Polarized Ceramic Capacitor,Disc 5mm,0.10,0.10
 C2,1,1uF,Electrolytic Capacitor,Radial 5mm,0.15,0.15
-
 D1,1,LED,Standard 5mm LED,LED_D5.0mm,0.10,0.10
 D2,1,LED,Standard 5mm LED,LED_D5.0mm,0.10,0.10
 D3,1,LED,Standard 5mm LED,LED_D5.0mm,0.10,0.10
@@ -30,11 +26,8 @@ D7,1,LED,Standard 5mm LED,LED_D5.0mm,0.10,0.10
 D8,1,LED,Standard 5mm LED,LED_D5.0mm,0.10,0.10
 D9,1,LED,Standard 5mm LED,LED_D5.0mm,0.10,0.10
 D10,1,LED,Standard 5mm LED,LED_D5.0mm,0.10,0.10
-
 J1,1,2-pin Header,Power Connector,PinHeader_1x02_P2.54mm,0.10,0.10
-
 PCB,1,93mm Diameter Round PCB,Custom Board,N/A,15.98,15.98
-
-TOTAL,, , , , ,,
-TOTAL_COMPONENT_COST,,, , , ,3.65
-TOTAL_WITH_PCB,,, , , ,19.63
+TOTAL,,,,,,
+TOTAL_COMPONENT_COST,,,,,,3.65
+TOTAL_WITH_PCB,,,,,,19.63
